@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Biswa8984/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Biswa8984/DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Biswa8984/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Biswa8984/DSA/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Biswa8984/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Biswa8984/DSA/tree/master/0283-move-zeroes) |
 ## Trie
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Biswa8984/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Biswa8984/DSA/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Biswa8984/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Biswa8984/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Biswa8984/DSA/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Biswa8984/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
