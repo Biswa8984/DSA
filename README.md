@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Biswa8984/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biswa8984/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Biswa8984/DSA/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Biswa8984/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Biswa8984/DSA/tree/master/0283-move-zeroes) |
 | [0930-binary-subarrays-with-sum](https://github.com/Biswa8984/DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Trie
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Biswa8984/DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Biswa8984/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Biswa8984/DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Stack
@@ -138,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Biswa8984/DSA/tree/master/0930-binary-subarrays-with-sum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Biswa8984/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Biswa8984/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Biswa8984/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
